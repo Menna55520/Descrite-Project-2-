@@ -1,0 +1,15 @@
+C:\Users\Solo\source\repos\perfect num\bin\Debug\net6.0\perfect num.exe
+C:\Users\Solo\source\repos\perfect num\bin\Debug\net6.0\perfect num.deps.json
+C:\Users\Solo\source\repos\perfect num\bin\Debug\net6.0\perfect num.runtimeconfig.json
+C:\Users\Solo\source\repos\perfect num\bin\Debug\net6.0\perfect num.dll
+C:\Users\Solo\source\repos\perfect num\bin\Debug\net6.0\perfect num.pdb
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.csproj.AssemblyReference.cache
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.AssemblyInfoInputs.cache
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.AssemblyInfo.cs
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.csproj.CoreCompileInputs.cache
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.dll
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\refint\perfect num.dll
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.pdb
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\perfect num.genruntimeconfig.cache
+C:\Users\Solo\source\repos\perfect num\obj\Debug\net6.0\ref\perfect num.dll
